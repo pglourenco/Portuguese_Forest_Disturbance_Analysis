@@ -1,6 +1,6 @@
 # Portuguese Forest Disturbance Analysis
 
-A university project analyzing the Portuguese Forest Disturbance Dataset. The notebook explores the data and applies data analysis and machine-learning methods. Made as part of the PACED 2024/25 course @ NOVA SST.
+A university project analyzing the [Portuguese Forest Disturbance Dataset](https://github.com/EduardoFAFernandes/portuguese-forest-disturbance-dataset). The notebook explores the data and applies data analysis and machine-learning methods. Made as part of the PACED 2024/25 course @ NOVA SST.
 
 ## Contents
 

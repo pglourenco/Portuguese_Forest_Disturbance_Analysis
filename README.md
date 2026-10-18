@@ -74,6 +74,25 @@ jupyter notebook
 
 Open `project_Pedro_Diogo_PACED_24-25.ipynb` in the browser and run the cells.
 
-## License
+## Acknowledgements
 
-The license for this repository applies only to the project code and documentation, not to the separately sourced dataset. Add a `LICENSE` file only after the project authors have agreed on the license.
+This work was developed under the supervision of Prof. Carlos Augusto Isaac Piló Viegas Damásio (NOVA University Lisbon), as part of the Erasmus Mundus Joint Master in ChEMoinformatics+, co-funded by the European Union (Programme ERASMUS2027, ERASMUS-EDU-2021-PEX-EMJM-MOB, Project number 101050809).
+
+## Changelog
+
+Updates to this document will be described here.
+
+### 0.1.0 (2025-06)
+
+Initial version.
+
+## Credits and licensing
+
+Copyright (c) 2025 Diogo Torres, Pedro Lourenço (NOVA University Lisbon). All rights reserved.
+
+This program is licensed under the GNU General Public License (version 3.0).
+
+**Authors**
+
+- Diogo Torres <<dm.torres@campus.fct.unl.pt>>
+- Pedro Lourenço <<pedro.lourenco.4816@gmail.com>>

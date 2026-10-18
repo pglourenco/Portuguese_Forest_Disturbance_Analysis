@@ -4,7 +4,7 @@ A university project analyzing the Portuguese Forest Disturbance Dataset. The no
 
 ## Contents
 
-- `project_Pedro_Diogo_PACED_24-25.ipynb` — project notebook
+- `Portuguese_Forest_Disturbance_Analysis.ipynb` — project notebook
 - `requirements.txt` — Python packages used by the notebook
 
 The dataset is not included in this repository. Download it separately using the instructions below.
@@ -43,9 +43,18 @@ Activate it:
 
 If PowerShell prevents activation, you can run the environment’s Python directly with the commands below instead.
 
+On macOS and Linux:
+
+```bash
+python3.11 -m venv .venv
+source .venv/bin/activate
+```
+
 ### 3. Install the Python packages
 
-```powershell
+With the virtual environment activated, run:
+
+```bash
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 ```
@@ -66,13 +75,13 @@ The dataset is not redistributed with this project. Check the original repositor
 
 ### 5. Run the notebook
 
-Start Jupyter from the project folder:
+With the virtual environment activated, start Jupyter from the project folder:
 
-```powershell
+```bash
 jupyter notebook
 ```
 
-Open `project_Pedro_Diogo_PACED_24-25.ipynb` in the browser and run the cells.
+Jupyter opens in your web browser and runs locally on your computer. Open `Portuguese_Forest_Disturbance_Analysis.ipynb` and run the cells.
 
 ## Acknowledgements
 
@@ -94,5 +103,5 @@ This program is licensed under the GNU General Public License (version 3.0).
 
 **Authors**
 
-- Diogo Torres <<dm.torres@campus.fct.unl.pt>>
-- Pedro Lourenço <<pedro.lourenco.4816@gmail.com>>
+- Diogo Torres <dm.torres@campus.fct.unl.pt>
+- Pedro Lourenço <pedro.lourenco.4816@gmail.com>

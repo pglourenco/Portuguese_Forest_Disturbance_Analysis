@@ -11,7 +11,7 @@ The dataset is not included in this repository. Download it separately using the
 
 ## Requirements
 
-- Python 3.11
+- Python 3.11 with the packages included in requirements.txt
 - Jupyter Notebook
 
 ## Installation and setup

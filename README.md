@@ -21,7 +21,7 @@ The dataset is not included in this repository. Download it separately using the
 To clone it with Git:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/paced-forest-disturbance-analysis.git
+git clone https://github.com/pglourenco/paced-forest-disturbance-analysis.git
 cd paced-forest-disturbance-analysis
 ```
 

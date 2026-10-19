@@ -103,5 +103,5 @@ This program is licensed under the GNU General Public License (version 3.0).
 
 **Authors**
 
-- Diogo Torres <dm.torres@campus.fct.unl.pt>
+- Diogo Torres <diogomgtorres@gmail.com>
 - Pedro Lourenço <pedro.lourenco.4816@gmail.com>
